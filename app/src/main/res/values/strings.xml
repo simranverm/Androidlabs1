@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">Simran android labs</string>
+    <string name="app_name">Simran Verma Android Labs</string>
     <string name="hello_message">Hello World!</string>
     <string name="button_message">i\'m a button</string>
+    <string name="theedit">I\'m an EditText</string>
+    <string name="thetext">"Write anything</string>
 </resources>
